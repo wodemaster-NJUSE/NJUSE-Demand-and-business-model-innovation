@@ -1,0 +1,56 @@
+\documentclass[a4paper,12pt]{article}
+
+% 导言区
+\usepackage{titlesec}
+\usepackage{lipsum} % 示例用，可以删除
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{amsmath} % 用于数学公式
+\usepackage{graphicx} % 用于插入图片
+\usepackage{lipsum} % 用于生成虚拟文本
+\usepackage{ctex} % 导入 ctex 包以支持中文
+\usepackage{titlesec} % 导入 titlesec 包以定制标题样式
+\usepackage{fontspec} % 用于设置中文字体
+\usepackage{amsfonts} 
+\usepackage{amsmath} % 提供 \text 和 \tanh 命令
+\usepackage{bm}      % 提供 \bm 命令用于粗体
+% 目录设置
+\usepackage[nottoc,notlot,notlof]{tocbibind}
+
+% 页面设置
+\geometry{margin=1in}
+
+% 标题设置
+\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+
+% 行间距设置
+\onehalfspacing
+
+% 文档信息
+\title{项目启动文档}
+\author{软件学院}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+% 添加目录
+\tableofcontents
+
+\section{项目概要}
+
+\subsection*{项目选题}
+
+\subsection{团队成员}
+
+\section{项目简介}
+
+\section{商业模式画布}
+
+\section{要点关联}
+
+
+\end{document}
