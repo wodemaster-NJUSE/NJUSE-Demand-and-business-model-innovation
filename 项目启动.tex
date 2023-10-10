@@ -16,7 +16,7 @@
 \usepackage{bm}      % 提供 \bm 命令用于粗体
 % 目录设置
 \usepackage[nottoc,notlot,notlof]{tocbibind}
-
+\usepackage{enumitem}
 % 页面设置
 \geometry{margin=1in}
 
@@ -53,7 +53,8 @@
 本文档共包含TODO个要点与TODO个关联关系，平均要点数量为TODO个。
 
 要点之间的关联详见第4部分
-
+% 添加目录
+\tableofcontents
 \section{项目简介}
 项目旨在帮助用户在任何地点和任何时间进行高质量的在线会议和协作，从各个维度满足用户对于远程会议的需要。通过提供音频、视频、文字聊天、文件共享和屏幕共享等功能来促进沟通和协作。主要目标是提供一个安全、可靠、用户友好的平台，从小型团队会议到大型企业级活动满足各种用户需求。
 
@@ -68,10 +69,87 @@
 
 我们针对教育需求新增了教学会议功能，提供了面向线上课堂的专属会议模块，添加了诸如小组讨论，举手答题，课堂小测等功能，课堂回放保存至云端可以随时访问，尽可能地模拟线下课堂的环境，结合线上教学的优势条件，让智能教学更加普及。
 
+% 添加目录
+\tableofcontents
 \section{商业模式画布}
+\textbf{画布}
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[scale=0.5]{腾讯会议商业模式画布.png}
+    \caption{figure title}
+    \label{figure}
+\end{figure}
 
+\textbf{要点讲解}
+\subsection{关键合作伙伴}
+\begin{itemize}[label=--, left=0pt]
+    \item 网络运营商：腾讯会议需要合作网络运营商确保高质量的网络连接，尤其是在视频会议等需要大带宽的场景。
+    \item 企业：合作企业可能提供定制化解决方案、集成服务或其他支持，以满足企业级用户的特殊需求。
+    \item 云服务商：与云服务商的合作有助于提高会议平台的弹性、可伸缩性，并提供高效的存储和计算资源。
+    \item 营销团队：营销团队的合作将有助于推广和宣传腾讯会议，吸引更多用户，尤其是企业用户。
+    \item 物资供应商：物资供应商可能提供与硬件设备、办公室设备等相关的支持和服务。
+\end{itemize}
+
+\subsection{关键活动}
+\begin{itemize}[label=--, left=0pt]
+    \item 平台开发：持续的技术研发和平台开发是确保腾讯会议保持竞争力和创新的关键活动。
+    \item 产品运营：有效的产品运营确保用户体验优越，功能得到充分利用，并满足不断变化的用户需求。
+    \item 市场营销：强大的市场营销活动有助于提高品牌知名度，吸引新用户，尤其是在竞争激烈的在线会议市场。
+\end{itemize}
+
+\subsection{关键资源}
+\begin{itemize}[label=--, left=0pt]
+    \item 技术研发能力：这是腾讯会议成功的核心，需要持续投资和保持领先的技术水平。
+    \item 平台运营能力：有效的平台运营确保服务的可靠性、稳定性和高效性。
+    \item 品牌影响力：强大的品牌影响力可以吸引更多用户，建立信任，并为腾讯会议带来竞争优势。
+\end{itemize}
+
+\subsection{成本结构}
+\begin{itemize}[label=--, left=0pt]
+    \item 研发创新成本：高水平的研发投入是必不可少的，以确保平台的不断创新和领先地位。
+    \item 运营维护成本：保持平台的稳定性和可用性需要不断的运营和维护工作。
+    \item 营销推广成本：在激烈的市场竞争中，有效的营销是必要的，但也需要控制成本。
+    \item 人员成本：涵盖研发、运营、营销等方面的人员成本。
+    \item 办公室设备成本：包括办公空间、硬件设备等的成本。
+\end{itemize}
+
+\subsection{价值主张}
+腾讯会议提供高效、稳定、快捷、易用的线上会议平台，为用户实现远程沟通和协作，满足了用户的实际需求。
+
+\subsection{客户关系}
+\begin{itemize}[label=--, left=0pt]
+    \item 私人服务：为个人用户提供个性化的服务和支持。
+    \item 自助服务：提供简便易用的自助服务工具，使用户能够更好地管理其会议体验。
+    \item 客户协作：与企业客户建立密切的合作关系，以满足其特定需求。
+    \item 社区：建立用户社区，促进用户之间的互动和信息共享。
+\end{itemize}
+
+\subsection{渠道}
+\begin{itemize}[label=--, left=0pt]
+    \item Web平台、移动端App：主要的服务传递渠道，满足用户在不同设备上的需求。
+    \item QQ微信微博链接：通过社交媒体渠道进行推广，扩大用户基础。
+\end{itemize}
+
+\subsection{收入}
+\begin{itemize}[label=--, left=0pt]
+    \item 会员收费：提供高级会员服务，收取会员费用。
+    \item 增值服务收费：提供一些额外的增值服务，如大规模会议、高级安全功能等，以获取额外收入。
+    \item 广告收入：在免费版本中通过广告获取收入。
+\end{itemize}
+
+\subsection{客户群体}
+\begin{itemize}[label=--, left=0pt]
+    \item 企业
+    \item 政府
+    \item 教育机构
+    \item 个人用户
+\end{itemize}
+% 添加目录
+\tableofcontents
 \section{要点关联}
 
+% 添加目录
+\tableofcontents
 \section{问题域}
 TODO
 \end{document}
