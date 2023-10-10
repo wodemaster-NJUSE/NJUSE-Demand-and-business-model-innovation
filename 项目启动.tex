@@ -7,6 +7,7 @@
 \usepackage{setspace}
 \usepackage{amsmath} % 用于数学公式
 \usepackage{graphicx} % 用于插入图片
+\usepackage{float}
 \usepackage{lipsum} % 用于生成虚拟文本
 \usepackage{ctex} % 导入 ctex 包以支持中文
 \usepackage{titlesec} % 导入 titlesec 包以定制标题样式
@@ -30,7 +31,6 @@
 
 % 文档信息
 \title{项目启动文档}
-\author{软件学院:程智镝,刘辉,陈凌,李忠信}
 \date{\today}
 
 \begin{document}
@@ -45,10 +45,13 @@
 \subsection{项目选题}
 一款面向大众的虚拟会议软件，名称TODO
 \subsection{团队成员}
-程智镝，211250124
-刘辉，211250122
-陈凌，211250159
-李忠信，211250158
+211250124 程智镝
+
+211250122 刘辉
+
+211250159 陈凌
+
+211250158 李忠信
 \subsection{度量数值}
 本文档共包含TODO个要点与TODO个关联关系，平均要点数量为TODO个。
 
@@ -73,77 +76,82 @@
 \tableofcontents
 \section{商业模式画布}
 \textbf{画布}
-\begin{figure}[htbp]
+\begin{figure}[H]
     \centering
-    \includegraphics[scale=0.5]{腾讯会议商业模式画布.png}
-    \caption{figure title}
+    \includegraphics[scale=0.4]{腾讯会议画布.png}
+    \caption{腾讯商业模式画布}
     \label{figure}
 \end{figure}
 
 \textbf{要点讲解}
-\subsection{关键合作伙伴}
-\begin{itemize}[label=--, left=0pt]
+\subsection{重要合作}
+\begin{enumerate}
     \item 网络运营商：腾讯会议需要合作网络运营商确保高质量的网络连接，尤其是在视频会议等需要大带宽的场景。
-    \item 企业：合作企业可能提供定制化解决方案、集成服务或其他支持，以满足企业级用户的特殊需求。
-    \item 云服务商：与云服务商的合作有助于提高会议平台的弹性、可伸缩性，并提供高效的存储和计算资源。
-    \item 营销团队：营销团队的合作将有助于推广和宣传腾讯会议，吸引更多用户，尤其是企业用户。
     \item 物资供应商：物资供应商可能提供与硬件设备、办公室设备等相关的支持和服务。
-\end{itemize}
+    \item 云服务商：与云服务商的合作有助于提高会议平台的弹性、可伸缩性，并提供高效的存储和计算资源。
+    \item 企业合作：合作企业可能提供定制化解决方案、集成服务或其他支持，以满足企业级用户的特殊需求。
+    \item 营销团队：营销团队的合作将有助于推广和宣传腾讯会议，吸引更多用户，尤其是企业用户。
+    \item 手机厂商：会议软件要通过与手机厂商合作，在其旗下手机产品上预装，扩展用户量，达到宣传的作用。
+\end{enumerate}
 
-\subsection{关键活动}
-\begin{itemize}[label=--, left=0pt]
-    \item 平台开发：持续的技术研发和平台开发是确保腾讯会议保持竞争力和创新的关键活动。
+\subsection{关键业务}
+\begin{enumerate}
+    \item 平台开发：持续的技术研发和平台开发是确保腾讯会议保持竞争力和技术创新的关键活动。
     \item 产品运营：有效的产品运营确保用户体验优越，功能得到充分利用，并满足不断变化的用户需求。
     \item 市场营销：强大的市场营销活动有助于提高品牌知名度，吸引新用户，尤其是在竞争激烈的在线会议市场。
-\end{itemize}
+\end{enumerate}
 
-\subsection{关键资源}
-\begin{itemize}[label=--, left=0pt]
-    \item 技术研发能力：这是腾讯会议成功的核心，需要持续投资和保持领先的技术水平。
-    \item 平台运营能力：有效的平台运营确保服务的可靠性、稳定性和高效性。
-    \item 品牌影响力：强大的品牌影响力可以吸引更多用户，建立信任，并为腾讯会议带来竞争优势。
-\end{itemize}
+\subsection{核心资源}
+\begin{enumerate}
+    \item 技术研发能力：这是腾讯会议成功的核心，需要持续投资并保持领先的技术水平。
+    \item 平台运营能力：有效的平台运营确保服务的高可用性、可靠性、稳定性和高效性。
+    \item 品牌影响力：强大的品牌影响力可以吸引更多用户，建立信任关系，并为腾讯会议带来竞争优势。
+\end{enumerate}
 
 \subsection{成本结构}
-\begin{itemize}[label=--, left=0pt]
+\begin{enumerate}
     \item 研发创新成本：高水平的研发投入是必不可少的，以确保平台的不断创新和领先地位。
     \item 运营维护成本：保持平台的稳定性和可用性需要不断的运营和维护工作。
-    \item 营销推广成本：在激烈的市场竞争中，有效的营销是必要的，但也需要控制成本。
+    \item 营销推广成本：在激烈的市场竞争中，持续的营销是必要的，但也需要控制成本。
     \item 人员成本：涵盖研发、运营、营销等方面的人员成本。
     \item 办公室设备成本：包括办公空间、硬件设备等的成本。
-\end{itemize}
+\end{enumerate}
 
 \subsection{价值主张}
-腾讯会议提供高效、稳定、快捷、易用的线上会议平台，为用户实现远程沟通和协作，满足了用户的实际需求。
+\begin{enumerate}
+	\item 定制化：会议提供诸多细化的可选择性设置。比如可通过选择是否允许回放，是否静音或屏蔽聊天等功能定制自己想要的会议类型。
+	\item 便利性：用户可以即使创建快速会议，并且可以通过分享的链接“一键入会”，方便使用。
+	\item 企业平台：产品最大限度地在线上满足企业线下活动的条件。针对企业会议，多人共享，讨论组等功能满足了成果展示，面试等基本企业活动所需的条件。更重要的是，长期会议与文件的上传与保存的功能更好的满足了企业的需求。
+\end{enumerate}
 
 \subsection{客户关系}
-\begin{itemize}[label=--, left=0pt]
+\begin{enumerate}
     \item 私人服务：为个人用户提供个性化的服务和支持。
-    \item 自助服务：提供简便易用的自助服务工具，使用户能够更好地管理其会议体验。
+    \item 自助服务：提供简便易用的自助服务工具，使用户能够更好地管理其会议过程。
     \item 客户协作：与企业客户建立密切的合作关系，以满足其特定需求。
-    \item 社区：建立用户社区，促进用户之间的互动和信息共享。
-\end{itemize}
+    \item 用户社区：建立用户社区，促进用户之间的互动和信息共享。
+\end{enumerate}
 
-\subsection{渠道}
-\begin{itemize}[label=--, left=0pt]
+\subsection{渠道通路}
+\begin{enumerate}
     \item Web平台、移动端App：主要的服务传递渠道，满足用户在不同设备上的需求。
-    \item QQ微信微博链接：通过社交媒体渠道进行推广，扩大用户基础。
-\end{itemize}
+    \item QQ微信链接：通过主流社交媒体渠道进行推广，扩大用户基础。
+\end{enumerate}
 
-\subsection{收入}
-\begin{itemize}[label=--, left=0pt]
+\subsection{收入来源}
+\begin{enumerate}
     \item 会员收费：提供高级会员服务，收取会员费用。
-    \item 增值服务收费：提供一些额外的增值服务，如大规模会议、高级安全功能等，以获取额外收入。
-    \item 广告收入：在免费版本中通过广告获取收入。
-\end{itemize}
+    \item 增值服务收费：提供一些额外的增值服务，如大规模会议、高级安全功能等。
+    \item 广告收入：在免费版本中通过广告植入获取收入。
+\end{enumerate}
 
-\subsection{客户群体}
-\begin{itemize}[label=--, left=0pt]
-    \item 企业
-    \item 政府
-    \item 教育机构
-    \item 个人用户
-\end{itemize}
+\subsection{客户细分}
+\begin{enumerate}
+    \item 企业：想要进行线上会议办公的企业用户。
+    \item 政府：想要进行线上会议办公的政府机构用户。
+    \item 教育机构：想要进行远程沟通授课的学校或教育机构用户。
+    \item 个人用户：想要临时召开或者参与线上会议的普通用户。
+\end{enumerate}
 % 添加目录
 \tableofcontents
 \section{要点关联}
