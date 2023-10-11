@@ -22,7 +22,16 @@
 \contentsline {subsection}{\numberline {4.6}会员收费与增值服务收费}{7}{}%
 \contentsline {subsection}{\numberline {4.7}产品运营与客户关系}{7}{}%
 \contentsline {subsection}{\numberline {4.8}广告收入与客户群体}{8}{}%
-\contentsline {subsection}{\numberline {4.9}社区与客户关系}{8}{}%
+\contentsline {subsection}{\numberline {4.9}客户协作与客户关系}{8}{}%
 \contentsline {subsection}{\numberline {4.10}增值服务收费与平台开发}{8}{}%
 \contentsline {subsection}{\numberline {4.11}企业与客户协作}{8}{}%
 \contentsline {section}{\numberline {5}问题域}{8}{}%
+\contentsline {subsection}{\numberline {5.1}用户体验}{8}{}%
+\contentsline {subsection}{\numberline {5.2}安全隐私}{8}{}%
+\contentsline {subsection}{\numberline {5.3}网络性能}{9}{}%
+\contentsline {subsection}{\numberline {5.4}移动端性能}{9}{}%
+\contentsline {subsection}{\numberline {5.5}整合性}{9}{}%
+\contentsline {subsection}{\numberline {5.6}收费问题}{9}{}%
+\contentsline {subsection}{\numberline {5.7}社交互动和团队协作}{9}{}%
+\contentsline {subsection}{\numberline {5.8}用户社区}{9}{}%
+\contentsline {subsection}{\numberline {5.9}会议类型}{9}{}%

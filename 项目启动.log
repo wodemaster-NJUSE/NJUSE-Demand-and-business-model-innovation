@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.10)  11 OCT 2023 13:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.10)  11 OCT 2023 15:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -541,18 +541,18 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: 腾讯会议画布.png Graphic file (type bmp)
 <腾讯会议画布.png>
 
-Overfull \hbox (25.21016pt too wide) in paragraph at lines 80--81
+Overfull \hbox (24.92119pt too wide) in paragraph at lines 80--81
  [][] 
  []
 
-[3] [4] [5] [6] [7] [8] (./项目启动.aux) ) 
+[3] [4] [5] [6] [7] [8] [9] (./项目启动.aux) ) 
 Here is how much of TeX's memory you used:
  9527 strings out of 476683
  248948 string characters out of 5800960
- 1862012 words of memory out of 5000000
+ 1868012 words of memory out of 5000000
  29621 multiletter control sequences out of 15000+600000
  526906 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,6n,97p,388b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,6n,97p,392b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 项目启动.pdf (8 pages).
+Output written on 项目启动.pdf (9 pages).
