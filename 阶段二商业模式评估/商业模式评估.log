@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.7)  11 OCT 2023 15:39
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.7)  1 NOV 2023 21:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**项目启动
-(./项目启动.tex
+**商业模式评估
+(./商业模式评估.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (d:/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -355,8 +355,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box60
 \enit@count@id=\count307
 \enitdp@description=\count308
-) (./项目启动.aux)
-\openout1 = `项目启动.aux'.
+) (./商业模式评估.aux)
+\openout1 = `商业模式评估.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
@@ -472,28 +472,20 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
  (d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./项目启动.toc [1
-
-])
+) (./商业模式评估.toc)
 \tf@toc=\write3
-\openout3 = `项目启动.toc'.
+\openout3 = `商业模式评估.toc'.
 
- [2]
-File: 腾讯会议画布.png Graphic file (type bmp)
-<腾讯会议画布.png>
+ [1
 
-Overfull \hbox (24.92119pt too wide) in paragraph at lines 80--81
- [][] 
- []
-
-[3] [4] [5] [6] [7] [8] [9] (./项目启动.aux) ) 
+] [2] (./商业模式评估.aux) ) 
 Here is how much of TeX's memory you used:
- 9527 strings out of 476683
- 246998 string characters out of 5807576
- 1868012 words of memory out of 5000000
- 29621 multiletter control sequences out of 15000+600000
+ 9394 strings out of 476683
+ 239683 string characters out of 5807576
+ 1850012 words of memory out of 5000000
+ 29491 multiletter control sequences out of 15000+600000
  526906 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,6n,97p,388b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,6n,97p,385b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 项目启动.pdf (9 pages).
+Output written on 商业模式评估.pdf (2 pages).
