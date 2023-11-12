@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.7)  1 NOV 2023 20:52
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.7)  12 NOV 2023 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -478,7 +478,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write3
 \openout3 = `项目启动.toc'.
 
- [2]
+ [2] [3]
 File: 腾讯会议画布.png Graphic file (type bmp)
 <腾讯会议画布.png>
 
@@ -486,7 +486,9 @@ Overfull \hbox (24.92119pt too wide) in paragraph at lines 80--81
  [][] 
  []
 
-[3] [4] [5] [6] [7] [8] [9] (./项目启动.aux) ) 
+[4
+
+] [5] [6] [7] [8] [9] (./项目启动.aux) ) 
 Here is how much of TeX's memory you used:
  9527 strings out of 476683
  246998 string characters out of 5807576
