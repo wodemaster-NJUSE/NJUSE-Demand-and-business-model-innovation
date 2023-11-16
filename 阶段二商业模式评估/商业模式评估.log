@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.7)  15 NOV 2023 21:15
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.7)  16 NOV 2023 14:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -358,22 +358,22 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 ) (./商业模式评估.aux)
 \openout1 = `商业模式评估.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -415,61 +415,61 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 37.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 37.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 37.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 37.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 37.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 37.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 37.
-LaTeX Font Info:    Redeclaring math accent \check on input line 37.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 37.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 37.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 37.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 37.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 37.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 38.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 38.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 38.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 38.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 38.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 38.
+LaTeX Font Info:    Redeclaring math accent \check on input line 38.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 38.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 38.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 37.
+(Font)              `operators' in the math version `normal' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 37.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 37.
+(Font)              `operators' in the math version `bold' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 37.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 37.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 37.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 37.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 37.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 37.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 37.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 37.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 37.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 37.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
 (d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
  (d:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (./商业模式评估.toc [1
@@ -483,21 +483,10 @@ Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾜ (U+2F9C) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽉ (U+2F49) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽇ (U+2F47) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼯ (U+2F2F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽆ (U+2F46) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾜ (U+2F9C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾃ (U+2F83) in font KaiTi/OT:script=hani;language=dflt;!
@@ -524,27 +513,20 @@ Missing character: There is no ⾃ (U+2F83) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⻬ (U+2EEC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
-[3]
 Missing character: There is no ⽤ (U+2F64) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽹ (U+2F79) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽂ (U+2F42) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⾸ (U+2FB8) in font KaiTi/OT:script=hani;language=dflt;!
+[3]
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾥ (U+2FA5) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾸ (U+2FB8) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾮ (U+2FAE) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾥ (U+2FA5) in font SimSun/OT:script=hani;language=dflt;!
@@ -555,13 +537,6 @@ Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽀ (U+2F40) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾸ (U+2FB8) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾦ (U+2FA6) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾮ (U+2FAE) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾦ (U+2FA6) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽇ (U+2F47) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽐ (U+2F50) in font KaiTi/OT:script=hani;language=dflt;!
@@ -588,7 +563,6 @@ Missing character: There is no ⻓ (U+2ED3) in font KaiTi/OT:script=hani;languag
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽬ (U+2F6C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽆ (U+2F46) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
@@ -596,22 +570,6 @@ Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽬ (U+2F6C) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⻔ (U+2ED4) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⻘ (U+2ED8) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
-[4]
 Missing character: There is no ⼊ (U+2F0A) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⼆ (U+2F06) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⾼ (U+2FBC) in font KaiTi/OT:script=hani;language=dflt;!
@@ -631,38 +589,20 @@ Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
+[4]
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽬ (U+2F6C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼦ (U+2F26) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⻓ (U+2ED3) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾔ (U+2F94) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽀ (U+2F40) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾔ (U+2F94) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽀ (U+2F40) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼝ (U+2F1D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾃ (U+2F83) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
@@ -672,23 +612,10 @@ Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽼ (U+2F7C) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽼ (U+2F7C) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼼ (U+2F3C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽼ (U+2F7C) in font SimSun/OT:script=hani;language=dflt;!
-[5]
 Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
@@ -698,16 +625,9 @@ Missing character: There is no ⽬ (U+2F6C) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-[6]
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
+[5]
 Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
@@ -716,11 +636,6 @@ Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⻅ (U+2EC5) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼴ (U+2F34) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾄ (U+2F84) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼿ (U+2F3F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼿ (U+2F3F) in font SimSun/OT:script=hani;language=dflt;!
@@ -728,10 +643,6 @@ Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⽺ (U+2F7A) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼿ (U+2F3F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽬ (U+2F6C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
@@ -742,91 +653,39 @@ Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾬ (U+2FAC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⻔ (U+2ED4) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾜ (U+2F9C) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-[7]
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾬ (U+2FAC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
+[6]
 Missing character: There is no ⽌ (U+2F4C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼝ (U+2F1D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾬ (U+2FAC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽀ (U+2F40) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾮ (U+2FAE) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾜ (U+2F9C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾬ (U+2FAC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽬ (U+2F6C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾃ (U+2F83) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-[8]
+[7]
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼴ (U+2F34) in font SimSun/OT:script=hani;language=dflt;!
-[9]
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾛ (U+2F9B) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼼ (U+2F3C) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼼ (U+2F3C) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼿ (U+2F3F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼿ (U+2F3F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼿ (U+2F3F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽅ (U+2F45) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font KaiTi/OT:script=hani;language=dflt;!
@@ -838,7 +697,7 @@ Missing character: There is no ⽇ (U+2F47) in font KaiTi/OT:script=hani;languag
 Missing character: There is no ⼀ (U+2F00) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽅ (U+2F45) in font KaiTi/OT:script=hani;language=dflt;!
 
-Overfull \hbox (24.0pt too wide) in paragraph at lines 298--299
+Overfull \hbox (24.0pt too wide) in paragraph at lines 295--296
 [][] 
  []
 
@@ -848,11 +707,7 @@ Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⿊ (U+2FCA) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-[10]
 Missing character: There is no ⾃ (U+2F83) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾔ (U+2F94) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
@@ -868,64 +723,25 @@ Missing character: There is no ⽂ (U+2F42) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⼝ (U+2F1D) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾦ (U+2FA6) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾔ (U+2F94) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾮ (U+2FAE) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾮ (U+2FAE) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾮ (U+2FAE) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⻔ (U+2ED4) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾃ (U+2F83) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼰ (U+2F30) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾔ (U+2F94) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾃ (U+2F83) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽴ (U+2F74) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⻔ (U+2ED4) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽴ (U+2F74) in font SimSun/OT:script=hani;language=dflt;!
+[8]
 Missing character: There is no ⽚ (U+2F5A) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽴ (U+2F74) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽌ (U+2F4C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⻔ (U+2ED4) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⿊ (U+2FCA) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽚ (U+2F5A) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾮ (U+2FAE) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽉ (U+2F49) in font KaiTi/OT:script=hani;language=dflt;!
-Missing character: There is no ⽇ (U+2F47) in font KaiTi/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font KaiTi/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font KaiTi/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font KaiTi/OT:script=hani;language=dflt;!
-Missing character: There is no ⾳ (U+2FB3) in font KaiTi/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font KaiTi/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font KaiTi/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font KaiTi/OT:script=hani;language=dflt;!
-Missing character: There is no ⽂ (U+2F42) in font KaiTi/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⼒ (U+2F12) in font KaiTi/OT:script=hani;language=dflt;!
 
-Overfull \hbox (24.0pt too wide) in paragraph at lines 327--328
+Overfull \hbox (24.0pt too wide) in paragraph at lines 322--323
 [][] 
  []
 
-Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽆ (U+2F46) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
@@ -933,36 +749,15 @@ Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⽴ (U+2F74) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾃ (U+2F83) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-[11]
 Missing character: There is no ⽂ (U+2F42) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼝ (U+2F1D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽴ (U+2F74) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽂ (U+2F42) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽴ (U+2F74) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼏ (U+2F0F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⻅ (U+2EC5) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽽ (U+2F7D) in font KaiTi/OT:script=hani;language=dflt;!
@@ -972,7 +767,7 @@ Missing character: There is no ⽤ (U+2F64) in font KaiTi/OT:script=hani;languag
 Missing character: There is no ⿊ (U+2FCA) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⻢ (U+2EE2) in font KaiTi/OT:script=hani;language=dflt;!
 
-Overfull \hbox (24.0pt too wide) in paragraph at lines 350--351
+Overfull \hbox (24.0pt too wide) in paragraph at lines 345--346
 [][] 
  []
 
@@ -982,11 +777,11 @@ Missing character: There is no ⼒ (U+2F12) in font KaiTi/OT:script=hani;languag
 Missing character: There is no ⽹ (U+2F79) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽹ (U+2F79) in font KaiTi/OT:script=hani;language=dflt;!
 
-Overfull \hbox (24.0pt too wide) in paragraph at lines 354--355
+Overfull \hbox (24.0pt too wide) in paragraph at lines 349--350
 [][] 
  []
 
-[12]
+[9]
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼝ (U+2F1D) in font SimSun/OT:script=hani;language=dflt;!
@@ -1000,10 +795,6 @@ Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⼝ (U+2F1D) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼩ (U+2F29) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽇ (U+2F47) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼩ (U+2F29) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
@@ -1023,33 +814,17 @@ Missing character: There is no ⽤ (U+2F64) in font KaiTi/OT:script=hani;languag
 Missing character: There is no ⼩ (U+2F29) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font KaiTi/OT:script=hani;language=dflt;!
 
-Overfull \hbox (24.0pt too wide) in paragraph at lines 377--378
+Overfull \hbox (24.0pt too wide) in paragraph at lines 372--373
 [][] 
  []
 
-[13]
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
+[10]
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽬ (U+2F6C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼜ (U+2F1C) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽬ (U+2F6C) in font SimSun/OT:script=hani;language=dflt;!
@@ -1057,30 +832,13 @@ Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾃ (U+2F83) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼰ (U+2F30) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼩ (U+2F29) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽀ (U+2F40) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾏ (U+2F8F) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼩ (U+2F29) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾔ (U+2F94) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⻛ (U+2EDB) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⼩ (U+2F29) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽀ (U+2F40) in font KaiTi/OT:script=hani;language=dflt;!
@@ -1093,23 +851,17 @@ Missing character: There is no ⾏ (U+2F8F) in font KaiTi/OT:script=hani;languag
 Missing character: There is no ⾼ (U+2FBC) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⻛ (U+2EDB) in font KaiTi/OT:script=hani;language=dflt;!
 
-Overfull \hbox (24.0pt too wide) in paragraph at lines 414--415
+Overfull \hbox (24.0pt too wide) in paragraph at lines 409--410
 [][] 
  []
 
-[14]
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽀ (U+2F40) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾮ (U+2FAE) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽹ (U+2F79) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽐ (U+2F50) in font KaiTi/OT:script=hani;language=dflt;!
@@ -1129,28 +881,10 @@ Missing character: There is no ⽐ (U+2F50) in font KaiTi/OT:script=hani;languag
 Missing character: There is no ⾼ (U+2FBC) in font KaiTi/OT:script=hani;language=dflt;!
 Missing character: There is no ⽹ (U+2F79) in font KaiTi/OT:script=hani;language=dflt;!
 
-Overfull \hbox (24.0pt too wide) in paragraph at lines 423--424
+Overfull \hbox (24.0pt too wide) in paragraph at lines 418--419
 [][] 
  []
 
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼤ (U+2F24) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼚ (U+2F1A) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽼ (U+2F7C) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽇ (U+2F47) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾯ (U+2FAF) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
@@ -1160,30 +894,25 @@ Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;langua
 Missing character: There is no ⼿ (U+2F3F) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾮ (U+2FAE) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾰ (U+2FB0) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽐ (U+2F50) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
-Missing character: There is no ⼀ (U+2F00) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽹ (U+2F79) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾦ (U+2FA6) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽽ (U+2F7D) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼩ (U+2F29) in font SimSun/OT:script=hani;language=dflt;!
+[11]
 Missing character: There is no ⼴ (U+2F34) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼈ (U+2F08) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼒ (U+2F12) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⾼ (U+2FBC) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⽤ (U+2F64) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼴ (U+2F34) in font SimSun/OT:script=hani;language=dflt;!
-[15]
 Missing character: There is no ⽣ (U+2F63) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼊ (U+2F0A) in font SimSun/OT:script=hani;language=dflt;!
 Missing character: There is no ⼴ (U+2F34) in font SimSun/OT:script=hani;language=dflt;!
@@ -1196,7 +925,7 @@ Missing character: There is no ⼼ (U+2F3C) in font SimSun/OT:script=hani;langua
 File: png/S&W1.png Graphic file (type bmp)
 <png/S&W1.png>
 
-Overfull \hbox (116.06947pt too wide) in paragraph at lines 479--480
+Overfull \hbox (116.06947pt too wide) in paragraph at lines 474--475
  [][] 
  []
 
@@ -1205,11 +934,11 @@ File: png/S&W2.png Graphic file (type bmp)
 File: png/S&W3.png Graphic file (type bmp)
 <png/S&W3.png>
 
-Overfull \hbox (116.06947pt too wide) in paragraph at lines 488--489
+Overfull \hbox (116.06947pt too wide) in paragraph at lines 483--484
  [][] 
  []
 
-[16] [17] [18] [19]
+[12] [13] [14] [15]
 
 Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
 (fontspec)             doesn't exist).
@@ -1223,4 +952,88 @@ Package fontspec Info: Could not resolve font "FangSong/I" (it probably
 (fontspec)             doesn't exist).
 
 
-Package 
+Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
+(fontspec)             with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Missing character: There is no ⽅ (U+2F45) in font SimSun/OT:script=hani;language=dflt;!
+[16
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 534--542
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--547
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 548--550
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--553
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 554--559
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 560--565
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--579
+
+ []
+
+[18]
+File: png/评估威胁.png Graphic file (type bmp)
+<png/评估威胁.png>
+ [19] [20]
+Overfull \hbox (119.60747pt too wide) in paragraph at lines 619--619
+[][]\TU/SimSun(0)/m/n/10 信 息 来 源：| \TU/lmr/m/n/10 https://pages.dingtalk.com/wow/z/tianyuan/default/opportunity_index?spm=a213l2.13146415.0.0.7f1571e1F3EIGn| 
+ []
+
+
+Overfull \hbox (18.59744pt too wide) in paragraph at lines 637--637
+[][]\TU/SimSun(0)/m/n/10 信 息 来 源：| \TU/lmr/m/n/10 https://static.www.tencent.com/uploads/2023/04/06/eac54c79c67d8a501bc4b65ff1718223.pdf| 
+ []
+
+[21
+
+]
+File: png/评估机会.png Graphic file (type bmp)
+<png/评估机会.png>
+ [22] [23] [24
+
+] [25]
+Overfull \hbox (278.17746pt too wide) in paragraph at lines 813--813
+[][]\TU/SimSun(0)/m/n/10 详 情 请 查 看 腾 讯 官 网：| \TU/lmr/m/n/10 https://meeting.tencent.com/m/magic-act/5szgxcha4is61qf16uxikfq589/index_index.html?ovscroll=0&page=index&__no_magic_qrcode=1| 
+ []
+
+[26] [27] (./商业模式评估.aux) ) 
+Here is how much of TeX's memory you used:
+ 10083 strings out of 476683
+ 275425 string characters out of 5807576
+ 1876012 words of memory out of 5000000
+ 30147 multiletter control sequences out of 15000+600000
+ 528547 words of font info for 123 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 89i,8n,97p,385b,386s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on 商业模式评估.pdf (27 pages).
