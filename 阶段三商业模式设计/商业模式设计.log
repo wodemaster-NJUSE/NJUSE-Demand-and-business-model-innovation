@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.7)  9 DEC 2023 20:35
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.7)  10 DEC 2023 14:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -479,16 +479,31 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout3 = `商业模式设计.toc'.
 
  [2]
-Overfull \vbox (436.23032pt too high) has occurred while \output is active []
+File: 高校移情图.jpg Graphic file (type bmp)
+<高校移情图.jpg>
+ [3]
+File: 企业移情图.jpg Graphic file (type bmp)
+<企业移情图.jpg>
+ [4
 
- [3] (./商业模式设计.aux) ) 
+]
+File: 电影爱好者移情图.png Graphic file (type bmp)
+<电影爱好者移情图.png>
+ [5
+
+] [6
+
+] [7] [8]
+Overfull \vbox (164.17955pt too high) has occurred while \output is active []
+
+ [9] (./商业模式设计.aux) ) 
 Here is how much of TeX's memory you used:
- 9398 strings out of 476683
- 239768 string characters out of 5807576
- 1859012 words of memory out of 5000000
- 29495 multiletter control sequences out of 15000+600000
+ 9573 strings out of 476683
+ 249096 string characters out of 5807576
+ 1868012 words of memory out of 5000000
+ 29664 multiletter control sequences out of 15000+600000
  526906 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,6n,97p,359b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,6n,97p,506b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 商业模式设计.pdf (3 pages).
+Output written on 商业模式设计.pdf (9 pages).
