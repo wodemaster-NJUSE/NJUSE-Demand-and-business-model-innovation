@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.7)  10 DEC 2023 14:41
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.7)  16 DEC 2023 10:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -493,17 +493,23 @@ File: 电影爱好者移情图.png Graphic file (type bmp)
 
 ] [6
 
-] [7] [8]
-Overfull \vbox (164.17955pt too high) has occurred while \output is active []
+] [7]
+File: 商业模式画布.png Graphic file (type bmp)
+<商业模式画布.png>
+ [8]
 
- [9] (./商业模式设计.aux) ) 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9] [10] [11
+
+] [12] [13] [14] [15] [16] (./商业模式设计.aux) ) 
 Here is how much of TeX's memory you used:
- 9573 strings out of 476683
- 249096 string characters out of 5807576
- 1868012 words of memory out of 5000000
- 29664 multiletter control sequences out of 15000+600000
- 526906 words of font info for 107 fonts, out of 8000000 for 9000
+ 9793 strings out of 476683
+ 261318 string characters out of 5807576
+ 1873012 words of memory out of 5000000
+ 29872 multiletter control sequences out of 15000+600000
+ 528499 words of font info for 117 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,6n,97p,506b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,8n,97p,506b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 商业模式设计.pdf (9 pages).
+Output written on 商业模式设计.pdf (16 pages).
