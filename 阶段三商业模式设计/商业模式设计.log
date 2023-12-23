@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.10)  23 DEC 2023 11:57
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.10)  23 DEC 2023 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -561,14 +561,14 @@ Overfull \vbox (28.73006pt too high) has occurred while \output is active []
 
 [9] [10
 
-] [11] [12] [13] [14] [15] (./商业模式设计.aux) ) 
+] [11] [12] [13] [14] [15] [16] [17] (./商业模式设计.aux) ) 
 Here is how much of TeX's memory you used:
- 9803 strings out of 476683
- 263865 string characters out of 5800960
+ 9851 strings out of 476683
+ 266845 string characters out of 5800960
  1873012 words of memory out of 5000000
- 29882 multiletter control sequences out of 15000+600000
+ 29930 multiletter control sequences out of 15000+600000
  528499 words of font info for 117 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,8n,97p,514b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,8n,97p,860b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 商业模式设计.pdf (15 pages).
+Output written on 商业模式设计.pdf (17 pages).
